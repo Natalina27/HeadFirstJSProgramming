@@ -14,7 +14,7 @@ while (count > 0){
 ////////////////////////////////////////////////////////////////////
 // Test for jokes
 let joke = 'JavaScript walked into a bar....';
-let toldJoke = "false";
+let toldJoke = false;
 let $punchline = 'Better watch out for those semi-colons.';
 // let percentage = 20;
 // let result;
@@ -25,7 +25,7 @@ if (toldJoke === true) {
 }
 // Movie Night
 let zipCode = 98104;
-let joe = 'sFavoriteMovie = Forbidden Planet';
+let joesFavoriteMovie = 'Forbidden Planet';
 let movieTicket$ = 9;
 if (movieTicket$ >= 9) {
     console.log("Too much!");
